@@ -1,7 +1,7 @@
 # Permalinks
 #
-# Use of `relative_permalinks` ensures post links from the index work properly.
-permalink:           pretty
+# Use of `relative_permalinks` no longer functions with jekyll
+permalink:           /:categories/:year/:month/:day/:title/
 
 
 # Setup

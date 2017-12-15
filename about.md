@@ -2,7 +2,6 @@
 layout: page
 title: About
 ---
-## About me
 
 I am a researcher and writer interested in neuroscience, technology, healthcare, privacy, language and music, among other things. See my [projects](https://hdbhdb.github.io/projects/) for more details about my research interests. I am a graduate from the University of Chicago (MA) and Oberlin College (BA). 
 

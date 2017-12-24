@@ -5,9 +5,9 @@ permalink:           /:categories/:year/:month/:day/:title/
 
 
 # Setup
-title:               home page
+title:               'home'
 tagline:             'under construction'
-description:         'blog-to-be'
+description:         'hudson diggs bailey'
 url:                 'hdbhdb.github.io'
 baseurl:             ''
 paginate:            5
@@ -15,7 +15,7 @@ highlighter:         rouge
 
 # About/contact
 author:
-  name:              HB
+  name:              Hudson Bailey
 
 # Custom vars
 version:             1.0.0

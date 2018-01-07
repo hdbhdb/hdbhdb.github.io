@@ -5,9 +5,9 @@ permalink:           /:categories/:year/:month/:day/:title/
 
 
 # Setup
-title:               'home'
-tagline:             'under construction'
-description:         'hudson diggs bailey'
+title:               'Hudson Bailey'
+tagline:             'personal site & blog'
+description:         'Go somewhere'
 url:                 'hdbhdb.github.io'
 baseurl:             ''
 paginate:            5
@@ -18,12 +18,10 @@ author:
   name:              Hudson Bailey
 
 # Custom vars
-version:             1.0.0
+#version:             1.0.0
 
 
 plugins:
-#   - jekyll-remote-theme
+
    - jekyll-paginate
 #remote_theme: poole/lanyon
-
-#remote_theme: poole

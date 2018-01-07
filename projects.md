@@ -3,7 +3,7 @@ layout: page
 title: Projects
 ---
 
-This page lists current projects I am actively researching and writing on. If you are interested in past projects, see my [CV](/assets/bailey_CV.pdf).
+This page lists current projects I am actively researching and writing on. If you are interested in past projects, see my [resume](/assets/bailey_resume.pdf).
 
 <br>
 

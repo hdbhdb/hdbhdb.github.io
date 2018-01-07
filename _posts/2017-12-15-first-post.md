@@ -3,4 +3,4 @@ layout: post
 title: First post
 ---
 
-Site is in progress. See [about](/about) for more details on my projects.
+Blog is in progress. Check out the sidebar or the [About](/about) section for more details about me and my projects.

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: null
 title: Subscribe to posts
 ---
 
@@ -13,6 +13,7 @@ title: Subscribe to posts
  <id>{{ site.url }}</id>
  <author>
    <name>{{ site.author.name }}</name>
+   <uri>{{ site.url }}</uri>
  </author>
 
  {% for post in site.posts %}

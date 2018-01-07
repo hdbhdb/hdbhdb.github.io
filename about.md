@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-You are at the website and blog of Hudson Diggs Bailey. I am a researcher and writer interested in culture, brains, technology, healthcare and privacy. [Projects](/projects) lists current projects. My [resume](/assets/bailey_resume.pdf) has more details on my background and past projects, as well as my contact information.
+You are at the website and blog of Hudson Bailey. I am a researcher and writer interested in culture, brains, technology, healthcare and privacy. [Projects](/projects) lists current projects. My [resume](/assets/bailey_resume.pdf) has more details on my background and past projects, as well as my contact information.
 
 <br><br>
 

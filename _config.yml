@@ -6,7 +6,7 @@ permalink:           /:categories/:year/:month/:day/:title/
 
 # Setup
 title:               'Hudson Bailey'
-tagline:             'personal site & blog'
+tagline:             'personal site'
 description:         'Go somewhere'
 url:                 'hdbhdb.github.io'
 baseurl:             ''

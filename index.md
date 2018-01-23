@@ -1,7 +1,7 @@
 ---
 layout: no-sidebar-page
 # title: About
-redirect_from: ../about
+redirect_from: /about/
 ---
 
 <img style="float: right;" src="/assets/me_.jpg" width="42%">

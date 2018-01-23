@@ -1,16 +1,17 @@
 # Permalinks
 #
 # Use of `relative_permalinks` no longer functions with jekyll
-permalink:           /:categories/:year/:month/:day/:title/
+permalink:           /blog/:categories/:year/:month/:day/:title/
 
 
 # Setup
 title:               'Hudson Bailey'
-tagline:             'personal site'
+tagline:             ''
 description:         'Go somewhere'
 url:                 'hdbhdb.github.io'
 baseurl:             ''
 paginate:            5
+paginate_path:       '/blog/page:num/'
 highlighter:         rouge
 
 # About/contact
@@ -22,6 +23,6 @@ author:
 
 
 plugins:
-
+   - jekyll-redirect-from
    - jekyll-paginate
 #remote_theme: poole/lanyon

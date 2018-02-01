@@ -24,11 +24,11 @@ I built a prototype transcript using simple layout tools in MS Word. This protot
 
 <br>
 ![...](/assets/proto-tr-1.png){:width="100%"}
->My prototype transcript of a conversation between several ornthithologists included facial expressions, gestures and emphasis alongside speech. Speech was transcribed using the International Phonetic Alphabet
+>My prototype transcript of a conversation between several ornthithologists included facial expressions, gestures and emphasis alongside speech. Speech was transcribed using the _International Phonetic Alphabet_
 
 <br>
 
-This project resulted in a multi-purpose transcription template that can be deployed in any type of research that is interested in aspects of interactions which are rendered invisible in other sorts of transcripts. 
+This project resulted in a multi-purpose transcription template that can be deployed in any type of research that is interested in aspects of interactions which are rendered invisible in other sorts of transcripts.
 
 I am currently refining a more modular, open-source version of the template [via ShareLaTeX](https://www.sharelatex.com/) that can be used as an online transcript builder and converter.
 

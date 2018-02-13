@@ -3,7 +3,7 @@ title: Adapting VR to Study the Senses in Context
 layout: no-sidebar-page
 ---
 
-Most psychophysics research has relied on simple computer interfaces consisting of flashes of white light and bursts of white noise to get at how the human sensory system works. Recently, however, this body of research has been complicated by mounting evidence that these simple studies tell us little about how the brain make sense of information coming from separate channels (i.e., vision, hearing, touch) in the noisier and more distracting contexts of the real world. So how is it possible to grapple the knowledge about what the brain does out of context in a laboratory setting with the difficulty of studying what the brain does when it actually matters?
+Most psychophysics research has relied on simple computer interfaces consisting of flashes of white light and bursts of white noise to get at how the human sensory system works. Recently, however, this body of research has been complicated by mounting evidence that these simple studies tell us little about how the brain make sense of information coming from separate channels (i.e., vision, hearing, touch) in the noisier and more distracting contexts of the real world. So how is it possible to reconcile the knowledge about what the brain does out of context in a laboratory setting with the difficulty of studying what the brain does when it actually matters?
 
 <iframe src="https://giphy.com/embed/3ohc136R0ywN8zb2EM" width="720" height="450" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 >Representation of a classic minimal psychophysics experiment. The research participant presses a button when they see the white circle or a noise that might accompany it.

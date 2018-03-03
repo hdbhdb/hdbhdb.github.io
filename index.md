@@ -4,7 +4,7 @@ layout: no-sidebar-page
 # redirect_from: /about/
 ---
 
-<img style="float: right;" src="/assets/me_.jpg" width="42%">
+
 
 You are at the website and blog of Hudson Bailey. I am a researcher and writer interested in culture, brains, human-computer interaction, technology, healthcare and privacy. You can take a look at my [projects](/projects) or [resume](/assets/bailey_resume.pdf) for more details on my background and past work, or check out my [blog](/blog). Contact me at hudson diggs bailey, no punctuation, at gmail.
 

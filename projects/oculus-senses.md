@@ -5,7 +5,9 @@ layout: no-sidebar-page
 
 Most psychophysics research has relied on simple computer interfaces consisting of flashes of white light and bursts of white noise to get at how the human sensory system works. Recently, however, this body of research has been complicated by mounting evidence that these simple studies tell us little about how the brain make sense of information coming from separate channels (i.e., vision, hearing, touch) in the noisier and more distracting contexts of the real world. So how is it possible to reconcile the knowledge about what the brain does out of context in a laboratory setting with the difficulty of studying what the brain does when it actually matters?
 
-<iframe src="https://giphy.com/embed/3ohc136R0ywN8zb2EM" width="720" height="450" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<br>
+![...](/assets/ms-detection.gif){:width="100%"}
+
 >Representation of a classic minimal psychophysics experiment. The research participant presses a button when they see the white circle or a noise that might accompany it.
 
 <br>
@@ -26,7 +28,7 @@ I designed the VR environments by first making simple wireframes in collaboratio
 <br>
 
 ![...](/assets/task-flow.jpg){:width="100%"}
->Mock-up of experiment run-through
+>Final sketch of experiment run-through
 
 <br>
 
@@ -38,11 +40,18 @@ I was responsible for conducting final-stage user testing for the comfort and ea
 
 <br>
 
-Two finalized versions of the app were used to conduct a two-part "multisensory detection" neuroscience study. One of these led to interesting and unexpected findings about how the brain integrates sensory information in more complex environments. Our research also served as a proof of concept for using VR to replicate and verify findings in sensory neuroscience. I presented this research at [national conferences](http://www.abstractsonline.com/Plan/ViewAbstract.aspx?mID=3744&sKey=8ffdb9bb-e46a-4d5d-8eba-d2ab4dd08884&cKey=b23bba56-576a-48aa-a886-c95fb61bb543&mKey=d0ff4555-8574-4fbb-b9d4-04eec8ba0c84) and gave a related discussion-panel [talk](https://www.dropbox.com/s/wio5f70xiyqvpx7/synesthesia-symposium-april-15-updated-figures.pdf?dl=0) at an interdisciplinary symposium on synesthesia. We have also submitted a manuscript to an academic journal for publication.
+Two finalized versions of the app were used to conduct a two-part "multisensory detection" neuroscience study. One of these led to interesting and unexpected findings about how the brain integrates sensory information in more complex environments. Our research also served as a proof of concept for using VR to replicate and verify findings in sensory neuroscience. I presented this research at [national conferences](http://www.abstractsonline.com/Plan/ViewAbstract.aspx?mID=3744&sKey=8ffdb9bb-e46a-4d5d-8eba-d2ab4dd08884&cKey=b23bba56-576a-48aa-a886-c95fb61bb543&mKey=d0ff4555-8574-4fbb-b9d4-04eec8ba0c84) and gave a related discussion-panel [talk](https://www.dropbox.com/s/wio5f70xiyqvpx7/synesthesia-symposium-april-15-updated-figures.pdf?dl=0) at an interdisciplinary symposium on synesthesia. We have a forthcoming journal article appearing in Multisensory Research.
 
 My work in the lab also included research planning and VR environment design for a follow-up VR study on "cross-modal attentional cuing" in complex environments which was completed after I had graduated.
 
+<br>
 ![...](/assets/vr-exp-2.png){:width="100%"}
 >Environment I designed for our second round of VR sensory studies.
+
+<br>
+
+See original paper: **Bailey, H. D.**, Mullaney, A. B., Gibney, K. D., & Kwakye, L. D. (in press). Audiovisual integration varies with target and environment richness in immersive virtual reality. *Multisensory Research.*
+
+<br>
 
 [Back to projects](../)

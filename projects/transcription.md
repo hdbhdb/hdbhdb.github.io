@@ -30,6 +30,6 @@ I developed a prototype transcript using simple layout tools in MS Word. This pr
 
 This project resulted in a multi-purpose transcription template that can be deployed in any type of research that is interested in the aspects of interactions which are rendered invisible in other sorts of transcripts.
 
-I am currently refining a more modular, open-source version of the template [via ShareLaTeX](https://www.sharelatex.com/) that can be used as an online transcript builder and converter in order to make other transcription formats more accessible.
+I am currently refining a more modular, open-source version of the template via ShareLaTeX.
 
 [Back to projects](../)

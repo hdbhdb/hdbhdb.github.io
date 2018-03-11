@@ -20,7 +20,7 @@ As "virtual reality" technology continues to improve, it allows neuroscience res
 
 <br>
 
-I designed the VR environments by first making simple wireframes in collaboration with my professor and team members. These mock-ups emphasized different kinds of simple or complex environment features we could exploit in the study in order to get a range of complex and simple virtual worlds. By making some of the environments minimal and more like the classic psychophysics experiments, we could identify patterns in how the brain extracts multisensory information from environments that are more complex versus less complex. We first built prototype environments we could use in the experiment. Several versions of the prototype VR environments were tested on students and volunteers.
+I designed the VR environments by first making simple paper wireframes in collaboration with my professor and team members. These sketches emphasized different kinds of simple or complex environment features we could exploit in the study in order to get a range of complex and simple virtual worlds. By making some of the environments minimal and more like the classic psychophysics experiments, we could identify patterns in how the brain extracts multisensory information from environments that are more complex versus less complex. We first built prototype environments we could use in the experiment. Several versions of the prototype VR environments were tested on students and volunteers.
 
 ![...](/assets/task-sketches.jpg){:width="100%"}
 >Sketches of trial structure schematic and room dimension testing
@@ -28,7 +28,7 @@ I designed the VR environments by first making simple wireframes in collaboratio
 <br>
 
 ![...](/assets/task-flow.jpg){:width="100%"}
->Final sketch of experiment run-through
+>Low-fi wireframe demonstrating final experiment run-through
 
 <br>
 
@@ -46,11 +46,13 @@ My work in the lab also included research planning and VR environment design for
 
 <br>
 ![...](/assets/vr-exp-2.png){:width="100%"}
->Environment I designed for our second round of VR sensory studies.
+>Fully functional prototype of environment I designed for our second round of VR sensory studies.
 
 <br>
 
-See original paper: **Bailey, H. D.**, Mullaney, A. B., Gibney, K. D., & Kwakye, L. D. (in press). Audiovisual integration varies with target and environment richness in immersive virtual reality. *Multisensory Research.*
+For more details, see our forthcoming paper:
+
+**Bailey, H. D.**, Mullaney, A. B., Gibney, K. D., & Kwakye, L. D. (in press). Audiovisual integration varies with target and environment richness in immersive virtual reality. *Multisensory Research.*
 
 <br>
 

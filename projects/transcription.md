@@ -5,7 +5,7 @@ layout: no-sidebar-page
 Transcription is an important part of documenting and analyzing all kinds of human-centered research. However, transcripts that focus exclusively on spoken language can often erase salient elements of the interactions that they are trying to represent. As part of an undergraduate linguistic anthropology course on nonverbal communication, I developed a transcription approach for fixed camera video that preserves many features of nonverbal interaction that are difficult to document with classic transcription styles such as body language, gestures, prosody or camera actions. A transcript should have selection bias in order to focus attention on interesting aspects of an interaction, but my research showed that in some cases these aspects will not necessarily be the speech or language of the participants.
 
 <br>
-![...](/assets/transcribe-layouts.jpg){:width="50%"}
+![...](/assets/transcribe-layouts.jpg){:width="100%"}
 >Paper sketch of different transcription options for representing the same conversation. Transcript 1 presents communication serially and cohesively, while Transcript 2 presents speakers in parallel, showing pauses, interruptions and dominant speakers.
 
 <br>
@@ -13,7 +13,7 @@ Transcription is an important part of documenting and analyzing all kinds of hum
 While transcription methodology is a very central question in linguistic anthropology, it also has important implications in any realm of qualitative research where nonverbal interactions are important, from ethnography to user testing. Though multimedia technologies can offer increasingly granular analyses of interactions via video or interactive web-based formats, paper (or static document formats) remains widely-used in many stages of research and publication. For everything from academic publishing to product testing cycles in user research, the question of how to best represent fluid interaction on a paper medium persists.
 
 <br>
-![...](/assets/hci-t.jpg){:width="50%"}
+![...](/assets/hci-t.jpg){:width="100%"}
 >Column-style transcripts for HCI show the time-course and dynamics of screen interactions more clearly
 
 <br>

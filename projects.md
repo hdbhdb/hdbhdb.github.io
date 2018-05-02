@@ -8,7 +8,7 @@ layout: page
 
 <br>
 
-| [![...](/assets/senses-hmd.jpg)](/projects/oculus-senses) | [Adapting VR to Study the Senses in Context](/projects/oculus-senses) |
+| [![...](/assets/senses-hmd.jpg)](/projects/oculus-senses) | [Using VR to Study the Senses in Context](/projects/oculus-senses) |
 
 <br>
 

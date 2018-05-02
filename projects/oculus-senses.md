@@ -1,18 +1,17 @@
 ---
-title: Adapting VR to Study the Senses in Context
+title: Using VR to Study the Senses in Context
 layout: no-sidebar-page
 ---
-
-Most psychophysics research has relied on simple computer interfaces consisting of flashes of white light and bursts of white noise to get at how the human sensory system works. Recently, however, this body of research has been complicated by mounting evidence that these simple studies tell us little about how the brain make sense of information coming from separate channels (i.e., vision, hearing, touch) in the noisier and more distracting contexts of the real world. So how is it possible to reconcile the knowledge about what the brain does out of context in a laboratory setting with the difficulty of studying what the brain does when it actually matters?
+The past few decades of brain research in _multisensory integration_ has demonstrated that many of our taken-for-granted ideas about how the senses work are misguided. Among other things, we have learned that auditory or visual or touch perception very rarely happens without being affected by other senses. Sensory perception always occurs in the context of other senses, so that the sounds you hear, for example, are fundamentally changed by what you are seeing. Still, most of this research has relied on simple computer interfaces using flashes of white light and bursts of white noise to understand how the human sensory system works. Recently, this body of research has been complicated by mounting evidence that there are other contextual factors at play that can affect how sensory information interacts. Pushing this idea of _contextual sensory research_ further, they say that these relatively simple studies tell us little about how the brain make sense of information coming from eyes, ears and elsewhere in the noisier and more distracting contexts of the real world. So how is it possible to reconcile the knowledge about what the brain does out of context in a laboratory setting with the difficulty of studying what the brain does elsewhere in the more unpredictable settings where it actually matters?
 
 <br>
 ![...](/assets/ms-detection.gif){:width="100%"}
 
->Representation of a classic minimal psychophysics experiment. The research participant presses a button when they see the white circle or a noise that might accompany it.
+>Example of a classic minimal psychophysics experiment. The research participant presses a button when they see the white circle or a noise that might accompany it.
 
 <br>
 
-As "virtual reality" technology continues to improve, it allows neuroscience research to fabricate complex environments and scenarios in order to study what the brain does in a setting that is both controlled and realistic. Working in Prof. Leslie Kwakye's behavioral neuroscience lab at Oberlin College, I developed a VR application that could be used to study how the human brain integrates audio and visual sensory information in more complex environments like the ones we experience in real life. Our project used the Oculus Rift HMD, a surround sound speaker system, and VR environments I built using Vizard, Python and 3DS Max to create an immersive version of classic multisensory psychophysics experiments.
+As "virtual reality" technology continues to improve, it allows neuroscience research to fabricate complex environments and scenarios in order to study what the brain does in a setting that is both controlled and relatively realistic. Working in Prof. Leslie Kwakye's behavioral neuroscience lab at Oberlin College, I developed a VR application that could be used to study how the human brain integrates audio and visual sensory information in more complex environments like the ones we experience in real life. Our project used the Oculus Rift HMD, a surround sound speaker system, and VR environments I built using Vizard, Python and 3DS Max to create an immersive version of classic multisensory psychophysics experiments.
 
 <br>
 ![...](/assets/vr-room.jpg){:width="100%"}
@@ -20,7 +19,7 @@ As "virtual reality" technology continues to improve, it allows neuroscience res
 
 <br>
 
-I designed the VR environments by first making simple paper wireframes in collaboration with my professor and team members. These sketches emphasized different kinds of simple or complex environment features we could exploit in the study in order to get a range of complex and simple virtual worlds. By making some of the environments minimal and more like the classic psychophysics experiments, we could identify patterns in how the brain extracts multisensory information from environments that are more complex versus less complex. We first built prototype environments we could use in the experiment. Several versions of the prototype VR environments were tested on students and volunteers.
+I designed the VR environments by first making simple wireframes in collaboration with my professor and team members. These sketches emphasized different kinds of simple or complex environment features we could exploit in the study in order to get a range of complex and simple virtual worlds. By making some of the environments minimal and more like the classic psychophysics experiments, we could identify patterns in how the brain extracts multisensory information from environments that are more complex versus less complex. Several versions of the prototype VR environments were tested on students and volunteers.
 
 ![...](/assets/task-sketches.jpg){:width="100%"}
 >Sketches of trial structure schematic and room dimension testing
@@ -46,7 +45,7 @@ My work in the lab also included research planning and VR environment design for
 
 <br>
 ![...](/assets/vr-exp-2.png){:width="100%"}
->Fully functional prototype of environment I designed for our second round of VR sensory studies.
+>An environment I designed for our second round of VR multisensory studies.
 
 <br>
 

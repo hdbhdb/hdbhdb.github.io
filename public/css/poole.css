@@ -381,6 +381,11 @@ tbody tr:nth-child(odd) th {
   color: inherit;
 }
 
+.footnotes {
+  font-size: 75%;
+  color: #9a9a9a;
+}
+
 
 /*
  * Pagination

@@ -18,9 +18,9 @@ While transcription methodology is a very central question in linguistic anthrop
 
 <br>
 
-I used extensive secondary research to find patterns in potential ambiguity and omissions in published transcripts related to scientific discourse. My process to address some of these biases and representional problems involved creating simple sketches of interactions and transcription templates. Each template highlighted different aspects of a social interaction that could be useful for different researchers under different contexts.
+I used extensive secondary research to find patterns in potential ambiguity and omissions in published transcripts related to scientific discourse. My process to address some of these biases and representional problems involved creating simple sketches of interactions and transcription templates and analyzing the different ways a transcript could be performed. Each template highlighted different aspects of a social interaction that could be useful for different researchers under different contexts.
 
-I developed a prototype transcript using simple layout tools in MS Word. This prototype focused on power dynamics in scientists' informal research discussions and was submitted as part of a final semester-long project in linguistic anthropology.
+Through this experimentation, I found that a simple columns-style transcription worked best to emphasize the role of silence and bodily gestures in establishing speaker dominance and power relations. For fixed-camera video, columns better represent the spatial and visual organization of the scene. Images can also be easily included alongside speech, and it is trivial to illustrate reactions to other speakers. I prepared a prototype transcript using simple layout tools in MS Word. This transcript focused on gendered power dynamics, nonverbal communication and argument structure in scientists' informal research discussions and was submitted as part of a final semester-long project in linguistic anthropology.
 
 <br>
 ![...](/assets/proto-tr-1.png){:width="100%"}
@@ -28,9 +28,9 @@ I developed a prototype transcript using simple layout tools in MS Word. This pr
 
 <br>
 
-This project resulted in a multi-purpose columns-style transcription template that can be deployed in any type of research that is interested in the aspects of interactions which are rendered invisible in other sorts of transcripts.
+This project resulted in a multi-purpose columns-style transcription template that can be deployed in any type of research that is interested in the aspects of interactions which are rendered invisible in other sorts of transcripts. Serial transcripts clearly show the content of speech when there are multiple speakers, but parallel transcripts appear to do better in revealing the dynamics between multiple speakers.
 
-I am currently refining a more modular, open-source version of the template via ShareLaTeX.
+I am currently refining a more modular version of the template via ShareLaTeX that can convert serial transcripts to columnar transcripts.
 
 [Back to projects](../)
 

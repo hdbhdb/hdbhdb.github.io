@@ -39,6 +39,6 @@ Our two-part _multisensory detection_ study led to interesting and unexpected fi
 
 [Back to projects](../)
 
-[^1]: [Vizard](https://www.worldviz.com/vizard-virtual-reality-software) is an alternative to the more popular Unity platform that (as of 2015) offers better control for over extremely precise timing of events--essential any studies working with neurophysiological or behavioral recording on the scale of milliseconds or nanoseconds. 
+[^1]: [Vizard](https://www.worldviz.com/vizard-virtual-reality-software) is an alternative to the more popular Unity platform that (as of 2015) offers better control for over extremely precise timing of events--essential for any studies working with temporal data on the scale of milliseconds or nanoseconds. 
 
 [^2]: Bailey, H. D., Mullaney, A. B., Gibney, K. D., & Kwakye, L. D. (2018). [Audiovisual integration varies with target and environment richness in immersive virtual reality](http://booksandjournals.brillonline.com/content/journals/10.1163/22134808-20181301). *Multisensory Research*. Advance online publication. doi:10.1163/22134808-20181301

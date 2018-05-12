@@ -26,8 +26,8 @@ On one end, my responsibilities in this project included coding VR environments 
 
 <br>
 
-| [![...](/assets/task-sketches.jpg)](/assets/task-sketches.jpg){:width="100%"} <small>Sketches of trial structure schematic and room dimension testing</small>| [![...](/assets/task-flow.jpg)](/assets/task-flow.jpg){:width="100%"} <small>Low-fi wireframe demonstrating final experiment run-through</small|
-|[![...](/assets/vr-exp.png)](/assets/vr-exp.png){:width="100%"} <small>One of the virtual environments used in the study was made to look like the experiment room.</small> | [![...](/assets/vr-exp-2.png)](/assets/vr-exp-2.png){:width="100%"} <small>An environment I designed for our second round of VR multisensory studies.</small> |
+| [![...](/assets/task-sketches.jpg)](/assets/task-sketches.jpg){:width="100%"} <small>Sketches of trial structure schematic and room dimension testing</small>| [![...](/assets/task-flow.jpg)](/assets/task-flow.jpg){:width="100%"} <small>Low-fi wireframe demonstrating final experiment run-through</small>|
+|[![...](/assets/vr-exp.png)](/assets/vr-exp.png){:width="100%"} <small>One of the virtual environments used in the study was made to look like the experiment room</small> | [![...](/assets/vr-exp-2.png)](/assets/vr-exp-2.png){:width="100%"} <small>An environment I designed for our second round of VR multisensory studies</small> |
 
 <br>
 
@@ -39,6 +39,6 @@ Our two-part _multisensory detection_ study led to interesting and unexpected fi
 
 [Back to projects](../)
 
-[^1]: [Vizard](https://www.worldviz.com/vizard-virtual-reality-software) is an alternative to the more popular Unity platform that (as of 2015) offers better control for over extremely precise timing of events--essential for any studies working with temporal data on the scale of milliseconds or nanoseconds. 
+[^1]: [Vizard](https://www.worldviz.com/vizard-virtual-reality-software) is an alternative to the more popular Unity platform that (as of 2015) offers better control for over extremely precise timing of events--essential for any studies working with temporal data on the scale of milliseconds or nanoseconds.
 
 [^2]: Bailey, H. D., Mullaney, A. B., Gibney, K. D., & Kwakye, L. D. (2018). [Audiovisual integration varies with target and environment richness in immersive virtual reality](http://booksandjournals.brillonline.com/content/journals/10.1163/22134808-20181301). *Multisensory Research*. Advance online publication. doi:10.1163/22134808-20181301

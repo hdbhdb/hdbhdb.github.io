@@ -121,7 +121,7 @@ English (native), Spanish (intermediate)
 
 ## PUBLICATIONS & PRESENTATIONS
 
-- Bailey, H. D., Mullaney, A. B., Gibney, K. D., & Kwakye, L. D. (in press). Audiovisual integration varies with target and environment richness in immersive virtual reality. *Multisensory Research.*
+- Bailey, H. D., Mullaney, A. B., Gibney, K. D., & Kwakye, L. D. (2018). [Audiovisual integration varies with target and environment richness in immersive virtual reality.](http://booksandjournals.brillonline.com/content/journals/10.1163/22134808-20181301) *Multisensory Research.* Advance online publication. doi:10.1163/22134808-20181301
 
 -  (2015, Oct). [*Toward a Naturalistic Model of Multisensory Integration*](http://www.abstractsonline.com/Plan/ViewAbstract.aspx?mID=3744&sKey=8ffdb9bb-e46a-4d5d-8eba-d2ab4dd08884&cKey=b23bba56-576a-48aa-a886-c95fb61bb543&mKey=d0ff4555-8574-4fbb-b9d4-04eec8ba0c84). Poster presented at the annual meeting of the Society for Neuroscience, Chicago, IL.
 

@@ -16,4 +16,4 @@ layout: page
 
 <br><br>
 
-See [my resume](/resume) for an overview of my projects and more details on my background.
+See [my CV](/cv) for an overview of my projects and more details on my background.

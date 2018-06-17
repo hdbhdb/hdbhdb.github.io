@@ -20,7 +20,7 @@ From [Lanyon](https://github.com/poole/lanyon#lanyon):
   >Lanyon is an unassuming Jekyll theme that places content first by tucking away navigation in a hidden drawer. It's based on Poole, the Jekyll butler... Lanyon is a theme built on top of Poole, which provides a fully furnished Jekyll setup—just download and start the Jekyll server.
 
 
-If you have suggestions about any of the content on my site, you can contact me (see contact info in my [resume](/assets/bailey_resume.pdf)), or, alternatively, open an issue or pull request to suggest changes.
+If you have suggestions about any of the content on my site, you can email me (see contact info in my [CV](/cv)), or, alternatively, open an issue or pull request to suggest changes.
 
 ## Author
 

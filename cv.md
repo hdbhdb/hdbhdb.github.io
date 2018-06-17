@@ -1,0 +1,182 @@
+---
+title: Curriculum Vitae
+layout: no-sidebar-page
+redirect_from: "/resume/"
+---
+<center>
+<a href="../assets/bailey-cv.pdf">pdf</a>
+</center>
+
+<br>
+<small>
+[EDUCATION](#education) - [RESEARCH EXPERIENCE](#research-experience) - [WORK EXPERIENCE](#work-experience) - [PUBLICATIONS](#publications) - [CONFERENCE PRESENTATIONS](#conference-presentations) - [AWARDS](#awards--scholarships) - [SKILLS](#skills) - [SOFTWARE & TECHNICAL PROFICIENCIES](#software--technical-proficiencies) - [LANGUAGES](#languages)
+</small><br><br>
+
+contact: hudson diggs bailey at gmail
+
+
+<br>
+## EDUCATION
+
+### University of Chicago <span style="float:right;"> Chicago, IL</span>
+
+**M.A.**   _Social Sciences_ <span style="float:right;"> 2016 - 2017
+
+Thesis: *Interfaced Affects: Computing, Mediation & Care in Neuropsychiatric Monitoring*   Advisor: Joseph Masco
+
+### Oberlin College <span style="float:right;"> Oberlin, OH</span>
+
+**B.A.**   _Neuroscience & Anthropology_ <span style="float:right;"> 2011 - 2015
+
+Capstone: *Revisiting Narratives of Complete Penetrance in “Isolated Village Deafness”*   Seminar: Gene-Environment Interactions in Neurological Disorders
+
+
+<br>
+## RESEARCH EXPERIENCE
+
+### University of Chicago, Anthro. Dept. <br> Chicago, IL
+
+*Graduate Student Researcher*   *Sept 2016– Aug 2017*
+
+- Conducted independent ethnographic research on app design in the emerging field of "digital mental health"
+
+- Used a variety of qualitative research methods (e.g., participant observation & semi-structured interviews) to understand the culture of collaboration in the development of a psychiatric-monitoring smartphone app
+
+- Facilitated work across an interdisciplinary group of scientists & researchers to develop a complex narrative of how psychiatrists & developers understand digital technology in relation to data ecosystems, patient care & venture funding
+
+### Oberlin Multisensory Neuroscience Lab <br> Oberlin, OH
+
+*Research Assistant*   *Sept 2013 – July 2015*
+
+- Designed & supervised development of 'virtual reality' application for studying how sensory systems interact
+
+- Updated lab data management practices by building streamlined analysis programs to integrate data across multiple concurrent studies
+
+- Acting lab manager for recruitment, scheduling, correspondence & study moderation with research participants
+
+### Oberlin College, Anthro. Dept. <br> Oberlin, OH
+
+*Research Assistant*   *Feb – June 2015*
+
+- Conducted background research for professor's book on environmentalism & war in the Middle East
+
+- Synthesized work across environmental economics, systems ecology & journalism about military activities & translated findings to language of cultural anthropology
+
+### Oberlin Cognitive Neuroscience Lab <br> Oberlin, OH
+
+*Volunteer Research Assistant*   *July - Aug 2013*
+
+- Assisted in various programming tasks for computer-based decision-making studies
+
+<br>
+## WORK EXPERIENCE
+
+### Self-Employed <br> Chicago, IL
+
+*Editor & Tutor*   *Feb 2016 – present*
+
+- Copy-editing, proof-reading & ghostwriting lay-reader articles about technology
+
+- One-on-one tutoring for undergraduate, professional & returning students in essay writing, symbolic logic, and graduate test prep (GRE)
+
+### Conifer Research <br> Chicago, IL
+
+*Transcriber*   *Aug – Sept 2017*
+
+- Temp position transcribing & coding interviews for ethnographic & design research firm
+
+### CoNECt Lab <br> Chicago, IL
+
+*VR Technology Consultant*   *July – Oct 2016*
+
+- Facilitated early-stage 'virtual reality' project design for an experimental Body Dysmorphia exposure therapy--part of a collaboration between psychiatry department & engineering school
+
+### Robot City Workshop <br> Chicago, IL
+
+_Instructor_   _Mar – June 2016_
+
+- Taught electronics, physics & engineering concepts to elementary school students as part of traveling city-wide after-school program
+
+### No Nation Art Gallery & Lab <br> Chicago, IL
+_Resident Artist_   _Feb – Aug 2016_
+
+- Coordinated gallery exhibitions, performances, artist talks for independent gallery space
+
+- Pursued artistic & research projects related to public interest technology
+
+### The Powerplant <br> Oberlin, OH
+_Event Manager_   _Aug 2014 – Feb 2015_
+
+- Managed and facilitated concerts at music venue featuring local artists and bands
+
+- Promotions for concerts and events
+
+### WOBC 91.5 FM <br> Oberlin, OH
+_Disc Jockey_   _Jan 2013 – Dec 2014_
+
+- Hosted and planned weekly community radio shows covering a range of musical genres including post-punk, jazz & improvised music, noise-rock, samba
+
+### Oberlin College, Philosophy Dept. <br> Oberlin, OH
+
+*Grading Assistant & Peer Tutor*   *Sept 2013 – Dec 2014*
+
+- Graded assignments & tutored students in undergraduate philosophy course on symbolic logic
+
+
+
+<br>
+## PUBLICATIONS
+
+- Bailey, H. D., Mullaney, A. B., Gibney, K. D., & Kwakye, L. D. (2018). [Audiovisual integration varies with target and environment richness in immersive virtual reality](http://booksandjournals.brillonline.com/content/journals/10.1163/22134808-20181301). *Multisensory Research*, 31(7), 689 – 713. doi:10.1163/22134808-20181301
+
+<br>
+## CONFERENCE PRESENTATIONS
+
+- [Toward a Naturalistic Model of Multisensory Integration](http://www.abstractsonline.com/Plan/ViewAbstract.aspx?mID=3744&sKey=8ffdb9bb-e46a-4d5d-8eba-d2ab4dd08884&cKey=b23bba56-576a-48aa-a886-c95fb61bb543&mKey=d0ff4555-8574-4fbb-b9d4-04eec8ba0c84). Poster presented at the *annual meeting of the Society for Neuroscience* (2015), Chicago, IL.
+
+- [Multisensory Integration in Immersive Virtual Environments](https://www.dropbox.com/s/wio5f70xiyqvpx7/synesthesia-symposium-april-15-updated-figures.pdf?dl=0). Talk presented in P. Dimova & L. Kwakye (chairs), *Perspectives on Synesthesia from Neuroscience* (2015), inaugural Synesthesia Symposium, Oberlin, OH.
+
+-  [Audio-Visual Integration Varies with Stimulus & Background Complexity in a Virtual Environment](http://www.abstractsonline.com/Plan/ViewAbstract.aspx?sKey=2a339674-d5e1-41a7-b6b0-02bc629762e5&cKey=a5ad4dde-caa1-49c7-ae0a-3d2e61d364e9&mKey=0e61a95d-da39-42d4-b956-d089cd530010). Poster presented at the *Annual Biomedical Research Conference for Minority Students* (2014), San Antonio, TX.
+
+
+<br>
+## AWARDS & SCHOLARSHIPS
+
+-   **2016** University of Chicago Social Sciences Division   *Full Tuition Scholarship*
+
+-   **2015** Oberlin College Neuroscience Dept.   *Department Student Travel Award*
+
+-   **2014** Annual Biomedical Research Conference for Minority Students   *ABRCMS Full Travel Award*
+
+-   **2013-2015** Oberlin College   *Class of 1928 Scholarship*
+
+
+<br>
+## SKILLS
+
+-  **Research**: interdisciplinary collaboration, research design, semi-structured interviews, ethnography, transcription & content coding, secondary/background research, quantitative analysis & statistics, IRB, grant proposals
+
+- **Communication**: report writing, story telling, proof-reading & copy-editing, writing to audiences, data visualization & flow charts, slides, posters, basic web development
+
+- **Coordination**: team & group research, delegation, scheduling, research recruitment, note & bibliography organization, event organization, automation tools, spreadsheet programming, repositories
+
+
+<br>
+## SOFTWARE & TECHNICAL PROFICIENCIES
+
+- **Analysis**: SPSS, R, Excel, ELAN
+
+- **Writing**: Scrivener, text editors, MS Office, Slides, Pandoc
+
+- **Organization**: Excel, Google Suite, Zotero, Calendar
+
+- **Visualization & Production**: Illustrator, Photoshop/GIMP, Maya, Jekyll, LaTeX, video editing
+
+- **Programming**: Python, Java, Bash, Git
+
+<br>
+## LANGUAGES
+
+- English (native)
+
+- Spanish (intermediate)

@@ -4,7 +4,7 @@ layout: page
 ---
 <br>
 
-| [![...](/assets/sp_b_d_p.jpg)](/projects/digital-psych) | [Design Ethics for Digital Psychiatry](/projects/digital-psych)|
+| [![...](/assets/sp_b_d_p.jpg)](/projects/digital-psych) | [Design Ethics in Digital Psychiatry](/projects/digital-psych)|
 
 <br>
 

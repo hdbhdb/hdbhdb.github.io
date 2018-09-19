@@ -1,4 +1,4 @@
-You are at the repository for [hdbhdb.github.io](https://hdbhdb.github.io), my personal website and blog. Here you can learn more about the website itself, look at its source code, download or clone the entire site, grab a Markdown file of a blog post or project description, open a pull-request on a page, or follow my GitHub account.
+You are at the repository for my personal [website](https://hudsonbailey.org). Here you can learn more about the website itself, look at its source code, download or clone the entire site, grab a Markdown file of a blog post or project description, view the history of changes, open a pull-request on a page, or follow my GitHub account.
 
 ## Contents
 

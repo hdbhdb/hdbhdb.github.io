@@ -20,13 +20,13 @@ contact: hudson diggs bailey at gmail
 
 ### University of Chicago <span style="float:right;"> Chicago, IL</span>
 
-**M.A.**   _Social Sciences_ <span style="float:right;"> 2017
+**M.A.**   _Social Sciences_  2017
 
 Thesis: *Interfaced Affects: Computing, Mediation & Care in Neuropsychiatric Monitoring*   Advisor: Joseph Masco
 
 ### Oberlin College <span style="float:right;"> Oberlin, OH</span>
 
-**B.A.**   _Neuroscience_ <span style="float:right;"> 2015
+**B.A.**   _Neuroscience_  2015
  
 Capstone: *Revisiting Narratives of Complete Penetrance in “Isolated Village Deafness”*   Advisor: Leslie Kwakye
 

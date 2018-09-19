@@ -9,7 +9,7 @@ redirect_from: "/resume/"
 
 <br>
 <small>
-[EDUCATION](#education) - [RESEARCH EXPERIENCE](#research-experience) - [TEACHING EXPERIENCE](#teaching-experience) - [OTHER RELEVANT WORK EXPERIENCE](#other-relevant-work-experience) - [COMMUNITY & ARTS](#community--arts) - [PUBLICATIONS](#publications) - [CONFERENCE PRESENTATIONS](#conference-presentations) - [AWARDS](#awards--scholarships) - [SOFTWARE & TECHNICAL PROFICIENCIES](#software--technical-proficiencies) - [LANGUAGES](#languages)
+[EDUCATION](#education) - [RESEARCH EXPERIENCE](#research-experience) - [TEACHING EXPERIENCE](#teaching-experience) - [RELEVANT WORK EXPERIENCE](#relevant-work-experience) - [COMMUNITY & ARTS](#community--arts) - [PUBLICATIONS](#publications) - [CONFERENCE PRESENTATIONS](#conference-presentations) - [AWARDS](#awards--scholarships) - [SOFTWARE & TECHNICAL PROFICIENCIES](#software--technical-proficiencies) - [LANGUAGES](#languages)
 </small><br><br>
 
 contact: hudson diggs bailey at gmail
@@ -20,13 +20,13 @@ contact: hudson diggs bailey at gmail
 
 ### University of Chicago <span style="float:right;"> Chicago, IL</span>
 
-**M.A.**   _Social Sciences_ || Aug 2017
+**M.A.**   _Social Sciences_ <span style="float:right;"> 2017
 
 Thesis: *Interfaced Affects: Computing, Mediation & Care in Neuropsychiatric Monitoring*   Advisor: Joseph Masco
 
 ### Oberlin College <span style="float:right;"> Oberlin, OH</span>
 
-**B.A.**   _Neuroscience_ || May 2015
+**B.A.**   _Neuroscience_ <span style="float:right;"> 2015
  
 Capstone: *Revisiting Narratives of Complete Penetrance in “Isolated Village Deafness”*   Advisor: Leslie Kwakye
 
@@ -36,7 +36,7 @@ Capstone: *Revisiting Narratives of Complete Penetrance in “Isolated Village D
 
 ### University of Chicago, Anthro. Dept. <br> Chicago, IL
 
-*Graduate Student Researcher*   *Sept 2016– Aug 2017*
+*Graduate Student Researcher*   *Sept 2016 – Aug 2017*
 
 - Conducted independent ethnographic research on app design in the emerging field of "digital mental health"
 
@@ -64,7 +64,7 @@ Capstone: *Revisiting Narratives of Complete Penetrance in “Isolated Village D
 
 ### Oberlin Cognitive Neuroscience Lab <br> Oberlin, OH
 
-*Volunteer Research Assistant*   *July - Aug 2013*
+*Volunteer Research Assistant*   *July – Aug 2013*
 
 - Assisted in various programming tasks for computer-based decision-making studies
 
@@ -92,7 +92,7 @@ _Instructor_   _Mar – June 2016_
 
 
 <br>
-## OTHER RELEVANT WORK EXPERIENCE
+## RELEVANT WORK EXPERIENCE
 
 ### Self-Employed <br> Chicago, IL
 

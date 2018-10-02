@@ -9,7 +9,7 @@ redirect_from: "/resume/"
 
 <br>
 <small>
-[EDUCATION](#education) - [RESEARCH EXPERIENCE](#research-experience) - [TEACHING EXPERIENCE](#teaching-experience) - [RELEVANT WORK EXPERIENCE](#relevant-work-experience) - [COMMUNITY & ARTS](#community--arts) - [PUBLICATIONS](#publications) - [CONFERENCE PRESENTATIONS](#conference-presentations) - [AWARDS](#awards--scholarships) - [SOFTWARE & TECHNICAL PROFICIENCIES](#software--technical-proficiencies) - [LANGUAGES](#languages)
+[EDUCATION](#education) - [RESEARCH EXPERIENCE](#research-experience) - [TEACHING EXPERIENCE](#teaching-experience) - [RELEVANT WORK EXPERIENCE](#relevant-work-experience) - [COMMUNITY & ARTS](#community--arts) - [PUBLICATIONS](#publications) - [CONFERENCE PRESENTATIONS](#conference-presentations) - [MISC. COURSES](#misc-courses) - [AWARDS](#awards--scholarships) - [SOFTWARE & TECHNICAL PROFICIENCIES](#software--technical-proficiencies) - [LANGUAGES](#languages)
 </small><br><br>
 
 contact: hudson diggs bailey at gmail
@@ -143,6 +143,11 @@ _Disc Jockey_   _Jan 2013 – Dec 2014_
 - [Multisensory Integration in Immersive Virtual Environments](https://www.dropbox.com/s/wio5f70xiyqvpx7/synesthesia-symposium-april-15-updated-figures.pdf?dl=0). Talk presented at *Perspectives on Synesthesia from Neuroscience* (2015), inaugural Synesthesia Symposium, Oberlin, OH.
 
 -  [Audio-Visual Integration Varies with Stimulus and Background Complexity in a Virtual Environment](http://www.abstractsonline.com/Plan/ViewAbstract.aspx?sKey=2a339674-d5e1-41a7-b6b0-02bc629762e5&cKey=a5ad4dde-caa1-49c7-ae0a-3d2e61d364e9&mKey=0e61a95d-da39-42d4-b956-d089cd530010). Poster presented at *Annual Biomedical Research Conference for Minority Students* (2014), San Antonio, TX.
+
+<br>
+## MISC. COURSES
+
+- **2018** *CopyrightX*   HarvardX online course || Prof. Terry Fisher
 
 
 <br>

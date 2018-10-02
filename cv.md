@@ -147,7 +147,7 @@ _Disc Jockey_   _Jan 2013 – Dec 2014_
 <br>
 ## MISC. COURSES
 
-- **2018** *CopyrightX*   HarvardX online course || Prof. Terry Fisher
+- **2018** *CopyrightX*   HarvardX online course   Prof. Terry Fisher
 
 
 <br>

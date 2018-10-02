@@ -40,9 +40,9 @@ Capstone: *Revisiting Narratives of Complete Penetrance in “Isolated Village D
 
 - Conducted independent ethnographic research on app design in the emerging field of "digital mental health"
 
-- Used a variety of qualitative research methods (e.g., participant observation & semi-structured interviews) to understand the culture of collaboration in the development of a psychiatric-monitoring smartphone app
+- Used research methods from ethnography & laboratory studies (e.g., participant observation & semi-structured interviews) to study psychiatrists' & computers scientists' development of a psychiatric-monitoring smartphone app
 
-- Facilitated work across an interdisciplinary group of scientists & researchers to develop a complex narrative of how psychiatrists & developers understand digital technology in relation to data ecosystems, patient care & venture funding
+- Worked across multiple disciplines to construct a complex narrative of how privacy & ethics concerns related to mental health get entangled in technology development, capital ventures, & new collaborative relationships between psychiatrists & software developers
 
 ### Oberlin Multisensory Neuroscience Lab <br> Oberlin, OH
 
@@ -76,7 +76,7 @@ Capstone: *Revisiting Narratives of Complete Penetrance in “Isolated Village D
 
 *Tutor*   *Feb 2016 – Apr 2018*
 
-- One-on-one tutoring for undergraduate, professional & returning students in essay writing, symbolic logic, and graduate test prep (GRE)
+- One-on-one tutoring for undergraduate, professional & returning students in essay writing, symbolic logic, & graduate test prep (GRE)
 
 ### Robot City Workshop <br> Chicago, IL
 
@@ -120,14 +120,14 @@ _Resident Artist_   _Feb – Aug 2016_
 ### The Powerplant <br> Oberlin, OH
 _Event Manager_   _Aug 2014 – Feb 2015_
 
-- Managed and facilitated concerts at music venue featuring local artists and bands
+- Managed & facilitated concerts at music venue featuring local artists & bands
 
-- Promotions for concerts and events
+- Promotions for concerts & events
 
 ### WOBC 91.5 FM <br> Oberlin, OH
 _Disc Jockey_   _Jan 2013 – Dec 2014_
 
-- Hosted and planned weekly community radio shows covering a range of musical genres including post-punk, jazz & improvised music, noise-rock, samba
+- Hosted & planned weekly community radio shows covering a range of musical genres including post-punk, jazz & improvised music, noise-rock, samba
 
 
 <br>
@@ -138,11 +138,11 @@ _Disc Jockey_   _Jan 2013 – Dec 2014_
 <br>
 ## CONFERENCE PRESENTATIONS
 
-- [Toward a Naturalistic Model of Multisensory Integration](http://www.abstractsonline.com/Plan/ViewAbstract.aspx?mID=3744&sKey=8ffdb9bb-e46a-4d5d-8eba-d2ab4dd08884&cKey=b23bba56-576a-48aa-a886-c95fb61bb543&mKey=d0ff4555-8574-4fbb-b9d4-04eec8ba0c84). Poster presented at the *annual meeting of the Society for Neuroscience* (2015), Chicago, IL.
+- [Toward a Naturalistic Model of Multisensory Integration](http://www.abstractsonline.com/Plan/ViewAbstract.aspx?mID=3744&sKey=8ffdb9bb-e46a-4d5d-8eba-d2ab4dd08884&cKey=b23bba56-576a-48aa-a886-c95fb61bb543&mKey=d0ff4555-8574-4fbb-b9d4-04eec8ba0c84). Poster presented at *Society for Neuroscience* (2015), Chicago, IL.
 
 - [Multisensory Integration in Immersive Virtual Environments](https://www.dropbox.com/s/wio5f70xiyqvpx7/synesthesia-symposium-april-15-updated-figures.pdf?dl=0). Talk presented at *Perspectives on Synesthesia from Neuroscience* (2015), inaugural Synesthesia Symposium, Oberlin, OH.
 
--  [Audio-Visual Integration Varies with Stimulus & Background Complexity in a Virtual Environment](http://www.abstractsonline.com/Plan/ViewAbstract.aspx?sKey=2a339674-d5e1-41a7-b6b0-02bc629762e5&cKey=a5ad4dde-caa1-49c7-ae0a-3d2e61d364e9&mKey=0e61a95d-da39-42d4-b956-d089cd530010). Poster presented at the *Annual Biomedical Research Conference for Minority Students* (2014), San Antonio, TX.
+-  [Audio-Visual Integration Varies with Stimulus and Background Complexity in a Virtual Environment](http://www.abstractsonline.com/Plan/ViewAbstract.aspx?sKey=2a339674-d5e1-41a7-b6b0-02bc629762e5&cKey=a5ad4dde-caa1-49c7-ae0a-3d2e61d364e9&mKey=0e61a95d-da39-42d4-b956-d089cd530010). Poster presented at *Annual Biomedical Research Conference for Minority Students* (2014), San Antonio, TX.
 
 
 <br>
@@ -152,7 +152,7 @@ _Disc Jockey_   _Jan 2013 – Dec 2014_
 
 -   **2015** *Department Student Travel Award*   Oberlin College Neuroscience Dept.
 
-- 	**2015** *Associate Membership Nomination*   Sigma Xi Honor Society
+- 	**2015** *Associate Membership Nomination*   Sigma Xi
 
 -   **2014** *ABRCMS Full Travel Award*   Annual Biomedical Research Conference for Minority Students
 
@@ -163,11 +163,11 @@ _Disc Jockey_   _Jan 2013 – Dec 2014_
 <br>
 ## SOFTWARE & TECHNICAL PROFICIENCIES
 
-- **Writing & Organization**: Scrivener, Zotero, text editors, MS Office, Slides, Pandoc, Excel
+- **Writing & Organization**: Google Apps, Zotero, MS Office, Excel, Git
 
-- **Visualization & Production**: Illustrator, Photoshop/GIMP, Maya, Jekyll, LaTeX, video editing
+- **Visualization & Production**: Illustrator, Photoshop/GIMP, Maya, LaTeX, video editing & post-production tools
 
-- **Programming**: Python, Java, Bash, Git
+- **Programming Languages**: Python, Java, Bash
 
 <br>
 ## LANGUAGES

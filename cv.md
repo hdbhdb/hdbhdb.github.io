@@ -12,7 +12,7 @@ redirect_from: "/resume/"
 [EDUCATION](#education) - [RESEARCH EXPERIENCE](#research-experience) - [TEACHING EXPERIENCE](#teaching-experience) - [RELEVANT WORK EXPERIENCE](#relevant-work-experience) - [COMMUNITY & ARTS](#community--arts) - [PUBLICATIONS](#publications) - [CONFERENCE PRESENTATIONS](#conference-presentations) - [MISC. COURSES](#misc-courses) - [AWARDS](#awards--scholarships) - [SOFTWARE & TECHNICAL PROFICIENCIES](#software--technical-proficiencies) - [LANGUAGES](#languages)
 </small><br><br>
 
-contact: hudson diggs bailey at gmail
+contact: _h_ at domain name
 
 
 <br>

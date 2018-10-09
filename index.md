@@ -4,9 +4,9 @@ title:
 # redirect_from: /about/
 ---
 
-<img style="float: right;" alt="portrait" src="/assets/hb_2.jpg" width="310" height="310">
+<img style="float: right;" alt="portrait" src="/assets/hb_2.jpg" width="44%">
 
-I am a cultural anthropologist interested in how people understand brains, technology, health, self-tracking and privacy. I received my MA in Social Sciences from University of Chicago and my BA in neuroscience from Oberlin College. Take a look at my [projects](/projects) or [CV](/cv) for more details on my background and past work<!---, or check out my [writing](/blog)--->. Contact me at _h_ at _hudsonbailey_ dot org. 
+I am a cultural anthropologist interested in how people understand brains, technology, health, self-tracking and privacy. I received my MA in Social Sciences from University of Chicago and my BA in neuroscience from Oberlin College. Take a look at my [projects](/projects) or [CV](/cv) for more details on my background and past work<!---, or check out my [writing](/blog)--->. Contact me at _h_ at _hudsonbailey_ dot org.4
 
 
 <br><br>

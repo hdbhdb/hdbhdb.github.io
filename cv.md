@@ -34,7 +34,7 @@ Capstone: *Inverting Psychometric Diagnostics to Identify Ototoxic Gene-Environm
 <br>
 ## RESEARCH EXPERIENCE
 
-### University of Chicago, Anthropology Dept. <br>-  Chicago, IL
+### University of Chicago, Anthropology Dept. <br>/  Chicago, IL
 
 *Graduate Student Researcher*   *Sept 2016 – Aug 2017*
 
@@ -44,7 +44,7 @@ Capstone: *Inverting Psychometric Diagnostics to Identify Ototoxic Gene-Environm
 
 - Supported project with graduate training in theory and methodology
 
-### Kwakye Multisensory Integration Lab <br>-  Oberlin, OH
+### Kwakye Multisensory Integration Lab <br>/  Oberlin, OH
 
 *Research Assistant*   *Sept 2013 – July 2015*
 
@@ -54,7 +54,7 @@ Capstone: *Inverting Psychometric Diagnostics to Identify Ototoxic Gene-Environm
 
 - Updated lab data management practices by building streamlined analysis programs to integrate data across multiple concurrent studies
 
-### Oberlin College, Anthropology Dept. <br>-  Oberlin, OH
+### Oberlin College, Anthropology Dept. <br>/  Oberlin, OH
 
 *Research Assistant*   *Feb – June 2015*
 
@@ -64,29 +64,29 @@ Capstone: *Inverting Psychometric Diagnostics to Identify Ototoxic Gene-Environm
 
 - Analyzed media of journalism about military activities and ecological projects
 
-### Simen Cognitive Neuroscience Lab <br>-  Oberlin, OH
+### Simen Cognitive Neuroscience Lab <br>/  Oberlin, OH
 
 *Volunteer Research Assistant*   *July – Aug 2013*
 
-- Programming for computer-based neuroscience studies on human decision-making
+- Programmed computer-based neuroscience tasks for computational studies on human decision-making
 
 
 <br>
 ## TEACHING EXPERIENCE
 
-### Self-Employed <br>-  Chicago, IL
+### Self-Employed <br>/  Chicago, IL
 
 *Tutor*   *Feb 2016 – Apr 2018*
 
 - One-on-one tutoring for undergraduate, professional and returning students in essay writing, symbolic logic, and graduate test prep (GRE)
 
-### Robot City Workshop <br>-  Chicago, IL
+### Robot City Workshop <br>/  Chicago, IL
 
 _Instructor_   _Mar – June 2016_
 
 - Taught electronics, physics and engineering concepts to elementary school students as part of traveling city-wide after-school program
 
-### Oberlin College, Philosophy Dept. <br>-  Oberlin, OH
+### Oberlin College, Philosophy Dept. <br>/  Oberlin, OH
 
 *Grading Assistant & Peer Tutor*   *Sept 2013 – Dec 2014*
 
@@ -96,13 +96,13 @@ _Instructor_   _Mar – June 2016_
 <br>
 ## SELECT WORK EXPERIENCE
 
-### Self-Employed <br>-  Chicago, IL
+### Self-Employed <br>/  Chicago, IL
 
 *Editor & Writer*   *Jan 2018 – present*
 
 - Copy-editing, proof-reading and ghostwriting industry and lay-audience articles about technology
 
-### CoNECt Lab <br>-  Chicago, IL
+### CoNECt Lab <br>/  Chicago, IL
 
 *VR Technology Consultant*   *July – Oct 2016*
 
@@ -112,21 +112,21 @@ _Instructor_   _Mar – June 2016_
 <br>
 ## COMMUNITY & ARTS
 
-### No Nation Art Gallery & Lab <br>-  Chicago, IL
+### No Nation Art Gallery & Lab <br>/  Chicago, IL
 _Resident Artist_   _Feb – Aug 2016_
 
 - Coordinated gallery exhibitions, performances, artist talks for independent gallery space
 
 - Pursued artistic and research projects related to technology, surveillance, sound
 
-### The Powerplant <br>-  Oberlin, OH
+### The Powerplant <br>/  Oberlin, OH
 _Event Manager_   _Aug 2014 – Feb 2015_
 
 - Managed and facilitated concerts at music venue featuring local artists and bands
 
 - Promotions for concerts and events
 
-### WOBC 91.5 FM <br>-  Oberlin, OH
+### WOBC 91.5 FM <br>/  Oberlin, OH
 _Disc Jockey_   _Jan 2013 – Dec 2014_
 
 - Hosted and planned weekly community radio shows covering a range of musical genres including punk, improvised and Brazilian music
@@ -170,11 +170,11 @@ _Disc Jockey_   _Jan 2013 – Dec 2014_
 <br>
 ## SOFTWARE & TECHNICAL PROFICIENCIES
 
-- **Writing & Organization**: Google Apps, Zotero, MS Office, Excel, Git
+- **Writing & Organization**: bibliography management, project management, Git (version control), office suites (G/MS/Libre), Markdown, text editors, spreadsheets, presentation programs, Linux (Ubuntu, Debian)
 
-- **Visualization & Production**: Illustrator, Photoshop, Maya, LaTeX, ffmpeg
+- **Visualization & Media**: desktop publishing, vector graphics, static web development, LaTeX (type-setting), 3D computer graphics, VR scripting and design, ffmpeg (A/V post-production)
 
-- **Programming Languages**: Python, Java, Bash
+- **Programming Languages**: Python, Java, Bash, R, Processing
 
 <br>
 ## LANGUAGES

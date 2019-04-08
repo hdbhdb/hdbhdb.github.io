@@ -8,10 +8,6 @@ layout: page
 
 <br>
 
-| [![...](/assets/history.jpg)](/projects/material-history) | [Material Browsing History](/projects/material-history)|
-
-<br>
-
 ## Past Projects
 
 <br>

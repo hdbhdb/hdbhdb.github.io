@@ -6,8 +6,9 @@ title:
 
 <img style="float: right;" alt="portrait" src="/assets/hb.jpg" width="44%">
 
-I am a cultural anthropologist interested in how people understand brains, technology, health and privacy. I received my MA in social sciences from University of Chicago and my BA in neuroscience from Oberlin College. Take a look at my [projects](/projects) or [CV](/cv) for more details on my background and past work<!---, or check out my [writing](/blog)--->. Contact me at _h_ at _hudsonbailey_ dot org.
+I am a writer, editor and researcher with interests in information technology, design and health. I received my MA in social sciences from University of Chicago and my BA in neuroscience from Oberlin College. Take a look at my [resume](/resume) or [projects](/projects) for more details on my background and past work<!---, or check out my [writing](/blog)--->. Contact me at _h_ at _hudsonbailey_ dot org.
 
+**I am currently looking for new opportunities.** 
 
 <br><br>
 

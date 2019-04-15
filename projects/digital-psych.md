@@ -1,5 +1,5 @@
 ---
-title: Digital Psychiatry
+title: Ethics and "Experience" in Digital Psychiatry
 layout: no-sidebar-page
 ---
 

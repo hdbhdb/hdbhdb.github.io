@@ -1,5 +1,5 @@
 ---
-title: Resumé
+title: Résumé
 layout: no-sidebar-page
 ---
 <center>

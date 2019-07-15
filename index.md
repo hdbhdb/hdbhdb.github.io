@@ -8,7 +8,7 @@ title:
 
 I am a writer, editor and researcher with interests in information technology, design and health. I received my MA in Social Sciences from University of Chicago and my BA in Neuroscience from Oberlin College. 
 
-Take a look at my [resume](/resume) or [projects](/projects) for more details on my background and past work<!---, or check out my [writing](/blog)--->. Contact me at _h_ at _hudsonbailey_ dot org.
+Take a look at my [resume](/resume), [GitHub](https://github.com/hdbhdb) or [research projects](/projects) for more details on my background and past work<!---, or check out my [writing](/blog)--->. Contact me at _h_ at _hudsonbailey_ dot org.
 
 <br>
 

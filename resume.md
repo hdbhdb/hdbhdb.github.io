@@ -8,7 +8,7 @@ layout: no-sidebar-page
 
 <br>
 <small>
-[SUMMARY](#summary) - [EDUCATION](#education) - [SKILLS & TECHNICAL PROFICIENCIES](#skills--technical-proficiencies) - [RESEARCH](#research-experience) - [WORK](#select-work-experience) - [PUBLICATIONS/PRESENTATIONS](#publications--select-presentations) - [AWARDS](#awards--scholarships) - [VOLUNTEER](#volunteer--community-involvement)
+[SUMMARY](#summary) - [EDUCATION](#education) - [SKILLS & TECHNICAL PROFICIENCIES](#skills--technical-proficiencies) - [UNIVERSITY RESEARCH](#university-research-experience) - [WORK](#select-work-experience) - [PUBLICATIONS/PRESENTATIONS](#publications--select-presentations) - [AWARDS](#awards--scholarships) - [VOLUNTEER](#volunteer--community-involvement)
 </small><br><br>
 
 contact: _h_ at hudson bailey dot org
@@ -17,11 +17,11 @@ contact: _h_ at hudson bailey dot org
 <br>
 ## SUMMARY
 
-- Interdisciplinary background in cognitive neuroscience and cultural anthropology with wide-ranging interests in information technology, research and culture
+- Interdisciplinary background in cognitive neuroscience and cultural anthropology with broad interests in research, information technology, health and culture
 
-- Independently-driven collaborator with extensive experience in multidisciplinary teams
+- Independently-driven collaborator with extensive experience in diverse and multidisciplinary teams
 
-- Resourceful, big picture-oriented writer and editor with an anthropologist’s eye for details
+- Resourceful writer and technologist with an anthropologist’s eye for details
 
 <br>
 ## EDUCATION
@@ -37,23 +37,25 @@ contact: _h_ at hudson bailey dot org
 <br>
 ## SKILLS & TECHNICAL PROFICIENCIES
 
-- **Research & Analysis**: interviews, qualitative research, transcription and coding, bibliography/sources management, data management, quantitative analysis, spreadsheets (G/MS/Libre), SPSS
+- **Research & Analysis**: 
+interviews, qualitative research, project management, transcription and coding, bibliography/sources management, data management, quantitative analysis, spreadsheets (G/MS/Libre), SPSS, numpy, pandas
 
-- **Writing & Organization**: project management, Git (version control), office suites (G/MS/Libre), Markdown, text editors, spreadsheets, presentation programs, Linux (Ubuntu), team communication software, automation tools
+- **Writing & Media**: 
+office suites (G/MS/Libre), PowerPoint, text editors, Markdown, LaTeX (type-setting), desktop publishing, Photoshop/GIMP, ffmpeg, static web development
 
-- **Visualization & Media**: desktop publishing, vector graphics, static web development, LaTeX (type-setting), 3D computer graphics, VR scripting and design, ffmpeg (A/V post-production)
-
-- **Programming Languages**: Python, Java, Bash, R
+- **Scripting & Development**: Python, Bash, Linux, Git, Java
 
 
 <br>
-## RESEARCH EXPERIENCE
+## UNIVERSITY RESEARCH EXPERIENCE
 
 ### University of Chicago, Anthropology Dept. <br>/  Chicago, IL
 
 *Graduate Student Researcher*   *Sept 2016 – Aug 2017*
 
-- Conducted original investigative research composed of seven months of in-depth research involving interviews and discussions with psychiatrists, data scientists, neuroscientists and entrepreneurs
+- Conducted seven months of qualitative ethnographic research on the cultural, economic and institutional structures guiding health app development 
+
+- Organized, conducted and analyzed in-depth interviews and discussions with psychiatrists, data scientists, neuroscientists and entrepreneurs
 
 ### Kwakye Multisensory Integration Lab <br>/  Oberlin, OH
 
@@ -71,7 +73,9 @@ contact: _h_ at hudson bailey dot org
 
 - Conducted background research for professor's book on environmental science and war in the Middle East
 
-- Prepared literature reviews on topics in environmental economics and systems ecology and analyzed media of journalism about military activities and conservation projects
+- Prepared literature reviews on topics in environmental economics and systems ecology
+
+- Analyzed journalism and media about military activities and conservation projects
 
 
 <br>
@@ -130,8 +134,6 @@ _Instructor_   _Mar – June 2016_
 -   **2014** *ABRCMS Full Travel Award*   Annual Biomedical Research Conference for Minority Students
 
 -   **2013-15** *Class of 1928 Scholarship*   Oberlin College
-
--   **2013** *Class of 1961 Scholarship*   Oberlin College
 
 <br>
 ## VOLUNTEER & COMMUNITY INVOLVEMENT

@@ -18,4 +18,4 @@ Take a look at my [resume](/resume), [GitHub](https://github.com/hdbhdb) or [res
 
 ## About this site
 
-You can check out the repository for this site [here](https://github.com/hdbhdb/hdbhdb.github.io).
+This site is built with Jekyll and hosted on GitHub pages. Check out the [repository for this site](https://github.com/hdbhdb/hdbhdb.github.io).

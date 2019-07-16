@@ -5,7 +5,7 @@
 <!-- Toggleable sidebar -->
 <div class="sidebar" id="sidebar">
   <div class="sidebar-item">
-    <p>{{ site.description }}</p>
+    <p>{{ }}</p>
   </div>
   <nav class="sidebar-nav">
     <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}/">Home</a>
@@ -24,14 +24,11 @@
       {% endif %}
     {% endfor %}
 
-    <a class="sidebar-nav-item" href="https://www.linkedin.com/in/hudsondiggsbailey/">LinkedIn</a></nav>
-
     <a class="sidebar-nav-item" href="https://github.com/hdbhdb">GitHub</a>
+
+    <a class="sidebar-nav-item" href="https://www.linkedin.com/in/hudsondiggsbailey/">LinkedIn</a></nav>
 
     <a class="sidebar-nav-item" href="http://creativecommons.org/licenses/by/3.0/"><img alt="Creative Commons License" style="border-width:0" align="middle" src="https://i.creativecommons.org/l/by/3.0/88x31.png" /> The content of this site is licensed under a Creative Commons Attribution 3.0 Unported License. <br> {{ site.time | date: '%Y' }}.</a>
 
   </nav>
-
-
-
 </div>

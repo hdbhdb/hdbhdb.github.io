@@ -7,7 +7,7 @@ permalink:           /blog/:categories/:year/:month/:day/:title/
 # Setup
 title:               'Hudson Bailey'
 tagline:             ''
-description:         'Go somewhere'
+description:         ' '
 url:                 'hdbhdb.github.io'
 baseurl:             ''
 paginate:            5

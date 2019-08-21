@@ -1,6 +1,6 @@
 ---
 title: Résumé
-layout: no-sidebar-page
+layout: page
 ---
 <center>
 <a href="../assets/bailey-resume.pdf">pdf version</a>

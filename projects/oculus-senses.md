@@ -1,8 +1,10 @@
 ---
-title: Using VR to Study the Senses in Context
+title: Multisensory Integration in Virtual Reality
 layout: no-sidebar-page
 ---
-The past few decades of brain research in _multisensory integration_ has demonstrated that many of our taken-for-granted ideas about how the senses work are misguided. Among other things, we have learned that auditory or visual or touch perception very rarely happens without being affected by other senses. Sensory perception always occurs _in the context of other senses_: the way you process the sounds you hear, for example, is fundamentally changed by what you are seeing. Still, most perception research has relied on simple computer interfaces using flashes of white light and bursts of white noise to understand how the human sensory system works. In recent conversations in the field, this body of research has been complicated by mounting evidence that there are other contextual factors at play that can affect how sensory information interacts. Pushing this idea of _contextual sensory research_ further, they say that these relatively simplistic studies tell us little about how the brain make sense of information coming from eyes, ears and elsewhere in the noisier and more distracting contexts of the real world and lived life. So how is it possible to reconcile the basic knowledge about what the brain does out of context in a laboratory setting with the difficulty of studying what the brain does elsewhere in the unpredictable settings where it actually matters how the sensory environment comes together?
+The past few decades of brain research in _multisensory integration_ has demonstrated that many of our taken-for-granted ideas about how the senses work are misguided. Among other things, we have learned that auditory or visual or touch perception very rarely happens without being affected by other senses. Sensory perception always occurs _in the context of other senses_: the way you process the sounds you hear, for example, is fundamentally changed by what you are seeing. 
+
+Still, most perception research has relied on simple computer interfaces using flashes of white light and bursts of white noise to understand how the human sensory system works. In recent conversations in the field, this body of research has been complicated by mounting evidence that there are other contextual factors at play that can affect how sensory information interacts. Pushing this idea of _contextual sensory research_ further, they say that these relatively simplistic studies tell us little about how the brain make sense of information coming from eyes, ears and elsewhere in the noisier and more distracting contexts of the real world and lived life. So how is it possible to reconcile the basic knowledge about what the brain does out of context in a laboratory setting with the difficulty of studying what the brain does elsewhere in the unpredictable settings where it actually matters how the sensory environment comes together?
 
 <br>
 ![...](/assets/ms-detection.gif){:width="100%"}
@@ -11,7 +13,7 @@ The past few decades of brain research in _multisensory integration_ has demonst
 
 <br>
 
-I worked on neuroscience projects about how the human brain integrates audio and visual sensory information in more complex environments something like the ones we experience outside of laboratories. In order to study what the brain does in a setting that is both controlled and relatively realistic, we made use of immersive "virtual reality" technology to fabricate more complex environments and scenarios. Because the development of immersive technologies continues to outpace that of mobile "_in situ_ brain imaging", VR and other technologies remain valuable tools for neuroscientists and psychologists to use to understand brain activity outside the lab.
+As a research assistant at I worked on neuroscience projects about how the human brain integrates audio and visual sensory information in more complex environments something like the ones we experience outside of laboratories. In order to study what the brain does in a setting that is both controlled and relatively realistic, we made use of immersive "virtual reality" technology to fabricate more complex environments and scenarios. Because the development of immersive technologies continues to outpace that of mobile "_in situ_ brain imaging", VR and other technologies remain valuable tools for neuroscientists and psychologists to use to understand brain activity outside the lab.
 
 
 <br>
@@ -33,11 +35,13 @@ On one end, my responsibilities in this project included coding VR environments 
 
 I also laid the groundwork in research planning and VR environment design for the lab's follow-up VR study on "cross-modal attentional cuing" in complex environments, completed after I had graduated from the lab.
 
-Our two-part _multisensory detection_ study led to unexpected findings about how the brain integrates sensory information in more complex environments, which we published in Multisensory Research.[^2] Our research also served as a proof of concept for using VR technologies to replicate past research and verify principle findings in neuroscience. I presented our results at [the annual Society for Neuroscience conference](http://www.abstractsonline.com/Plan/ViewAbstract.aspx?mID=3744&sKey=8ffdb9bb-e46a-4d5d-8eba-d2ab4dd08884&cKey=b23bba56-576a-48aa-a886-c95fb61bb543&mKey=d0ff4555-8574-4fbb-b9d4-04eec8ba0c84) and gave a related discussion-panel [talk](https://www.dropbox.com/s/wio5f70xiyqvpx7/synesthesia-symposium-april-15-updated-figures.pdf?dl=0) at an interdisciplinary symposium on synesthesia and the intersection of humanities and sciences.
+Our two-part _multisensory detection_ study led to the discovery of novel patterns in how the brain integrates sensory information in more complex environments, which we published in Multisensory Research.[^2] Our results served as a Proof of Concept for using VR technologies to replicate research and verify principle findings in neuroscience. I presented our results at [the annual Society for Neuroscience conference](http://www.abstractsonline.com/Plan/ViewAbstract.aspx?mID=3744&sKey=8ffdb9bb-e46a-4d5d-8eba-d2ab4dd08884&cKey=b23bba56-576a-48aa-a886-c95fb61bb543&mKey=d0ff4555-8574-4fbb-b9d4-04eec8ba0c84) and gave a related discussion-panel talk at an interdisciplinary symposium on synesthesia and the intersection of humanities and sciences.
 
 <br>
 
-[Back to projects](../)
+[<-- Back to projects](../)
+
+<br>
 
 [^1]: [Vizard](https://www.worldviz.com/vizard-virtual-reality-software) is an integrated VR IDE similar to the more popular Unity platform but focused on research applications. 
 

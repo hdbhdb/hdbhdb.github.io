@@ -4,7 +4,7 @@ layout: page
 ---
 <br>
 
-| [![...](/assets/sp_b_d_p.jpg)](/projects/digital-psych) | [Emerging Models of Data Ethics and Surveillance in Computational Psychiatry](/projects/digital-psych)|
+| [![...](/assets/sp_b_d_p.jpg)](/projects/digital-psych) | [Emerging Models of Data Ethics in Computational Psychiatry](/projects/digital-psych)|
 
 <br>
 

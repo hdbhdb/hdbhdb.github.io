@@ -1,5 +1,5 @@
 ---
-title: Emerging Models of Data Ethics and Surveillance in Computational Psychiatry
+title: Emerging Models of Data Ethics in Computational Psychiatry
 layout: no-sidebar-page
 ---
 

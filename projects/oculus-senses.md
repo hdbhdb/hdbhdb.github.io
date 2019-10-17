@@ -13,7 +13,7 @@ Still, most perception research has relied on simple computer interfaces using f
 
 <br>
 
-As a research assistant at I worked on neuroscience projects about how the human brain integrates audio and visual sensory information in more complex environments something like the ones we experience outside of laboratories. In order to study what the brain does in a setting that is both controlled and relatively realistic, we made use of immersive "virtual reality" technology to fabricate more complex environments and scenarios. Because the development of immersive technologies continues to outpace that of mobile "_in situ_ brain imaging", VR and other technologies remain valuable tools for neuroscientists and psychologists to use to understand brain activity outside the lab.
+As a research assistant in Prof. Leslie Kwakye's Multisensory Integration Lab, I worked on neuroscience projects about how the human brain integrates audio and visual sensory information in more complex environments—something like the ones we experience outside of laboratories. We sought to study what the brain does in a setting that is both controlled and relatively realistic by making use of immersive "virtual reality" technology to fabricate more complex environments and scenarios. Because the development of immersive technologies continues to outpace that of mobile "_in situ_ brain imaging", VR and other technologies remain valuable tools for neuroscientists and psychologists to use to understand brain activity outside the sterile environment of the lab.
 
 
 <br>
@@ -35,7 +35,7 @@ On one end, my responsibilities in this project included coding VR environments 
 
 I also laid the groundwork in research planning and VR environment design for the lab's follow-up VR study on "cross-modal attentional cuing" in complex environments, completed after I had graduated from the lab.
 
-Our two-part _multisensory detection_ study led to the discovery of novel patterns in how the brain integrates sensory information in more complex environments, which we published in Multisensory Research.[^2] Our results served as a Proof of Concept for using VR technologies to replicate research and verify principle findings in neuroscience. I presented our results at [the annual Society for Neuroscience conference](http://www.abstractsonline.com/Plan/ViewAbstract.aspx?mID=3744&sKey=8ffdb9bb-e46a-4d5d-8eba-d2ab4dd08884&cKey=b23bba56-576a-48aa-a886-c95fb61bb543&mKey=d0ff4555-8574-4fbb-b9d4-04eec8ba0c84) and gave a related discussion-panel talk at an interdisciplinary symposium on synesthesia and the intersection of humanities and sciences.
+Our two-part _multisensory detection_ study led to a discovery of novel patterns in how the brain integrates sensory information in more complex environments, which we published in Multisensory Research.[^2] Our results served as a Proof of Concept for using VR technologies to replicate research and verify principle findings in neuroscience. I presented our results at [the annual Society for Neuroscience conference](http://www.abstractsonline.com/Plan/ViewAbstract.aspx?mID=3744&sKey=8ffdb9bb-e46a-4d5d-8eba-d2ab4dd08884&cKey=b23bba56-576a-48aa-a886-c95fb61bb543&mKey=d0ff4555-8574-4fbb-b9d4-04eec8ba0c84) and gave a related discussion-panel talk at an interdisciplinary symposium on synesthesia and the intersection of humanities and sciences.
 
 <br>
 

@@ -1,34 +1,39 @@
-<!-- Target for toggling the sidebar `.sidebar-checkbox` is for regular
-     styles, `#sidebar-checkbox` for behavior. -->
-<input type="checkbox" class="sidebar-checkbox" id="sidebar-checkbox"> <!-- Sidebar set to on add 'checked' -->
+<div class="sidebar">
+  <div class="container sidebar-sticky">
+    <div class="sidebar-about">
+      <h1>
+        <a href="{{ site.baseurl }}">
+          {{ site.title }}
+        </a>
+      </h1>
+      <p class="lead">{{ site.description }}</p>
+    </div>
 
-<!-- Toggleable sidebar -->
-<div class="sidebar" id="sidebar">
-  <div class="sidebar-item">
-    <p>{{ }}</p>
-  </div>
-  <nav class="sidebar-nav">
-    <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}/">Home</a>
+    <nav class="sidebar-nav">
+      <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}/">Home</a>
 
-    {% comment %}
-      The code below dynamically generates a sidebar nav of pages with
-      `layout: page` in the front-matter. See readme for usage.
-    {% endcomment %}
+      {% comment %}
+        The code below dynamically generates a sidebar nav of pages with
+        `layout: page` in the front-matter. See readme for usage.
+      {% endcomment %}
 
-    {% assign pages_list = site.pages | sort:"url" %}
-    {% for node in pages_list %}
-      {% if node.title != null %}
-        {% if node.layout == "page" %}
-          <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{ node.title }}</a>
+      {% assign pages_list = site.pages %}
+      {% for node in pages_list %}
+        {% if node.title != null %}
+          {% if node.layout == "page" %}
+            <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{ node.title }}</a>
+          {% endif %}
         {% endif %}
-      {% endif %}
-    {% endfor %}
+      {% endfor %}
 
-    <a class="sidebar-nav-item" href="https://github.com/hdbhdb">GitHub</a>
+      <a class="sidebar-nav-item" href="{{ site.baseurl }}/assets/bailey-resume.pdf">Resume</a>
 
-    <a class="sidebar-nav-item" href="https://www.linkedin.com/in/hudsondiggsbailey/">LinkedIn</a></nav>
+      <a class="sidebar-nav-item" href="https://github.com/hdbhdb">GitHub</a>
 
-    <a class="sidebar-nav-item" href="http://creativecommons.org/licenses/by/3.0/"><img alt="Creative Commons License" style="border-width:0" align="middle" src="https://i.creativecommons.org/l/by/3.0/88x31.png" /> The content of this site is licensed under a Creative Commons Attribution 3.0 Unported License. <br> {{ site.time | date: '%Y' }}.</a>
+      <a class="sidebar-nav-item" href="https://www.linkedin.com/in/hudsondiggsbailey/">LinkedIn</a></nav>
 
-  </nav>
+    </nav>
+
+    <p>&copy; {{ site.time | date: '%Y' }}</p>
+  </div>
 </div>

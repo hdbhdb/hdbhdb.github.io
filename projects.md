@@ -1,5 +1,5 @@
 ---
-title: Projects
+title: Past Projects
 layout: page
 ---
 <br>
